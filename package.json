@@ -34,7 +34,7 @@
     "@sentry/react-native": "^2.4.3",
     "dotenv": "^10.0.0",
     "hh-mm-ss": "^1.2.0",
-    "i18next": "^20.3.1",
+    "i18next": "^20.6.1",
     "react": "17.0.1",
     "react-i18next": "^11.10.0",
     "react-native": "0.64.2",
