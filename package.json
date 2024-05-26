@@ -31,7 +31,7 @@
     "@react-navigation/material-bottom-tabs": "^5.3.15",
     "@react-navigation/native": "^5.9.4",
     "@react-navigation/stack": "^5.14.5",
-    "@sentry/react-native": "^2.4.3",
+    "@sentry/react-native": "^3.0.0",
     "dotenv": "^10.0.0",
     "hh-mm-ss": "^1.2.0",
     "i18next": "^20.3.1",
